@@ -1,0 +1,6 @@
+{
+	"name": "@nlibs/mem-cache",
+	"version": "1.0.0",
+	"license": "MIT",
+	"main": "./mem-cache.js"
+}
